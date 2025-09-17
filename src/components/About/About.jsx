@@ -36,13 +36,15 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I'm a Frontend Developer with over 4 years of experience crafting
-            fast, accessible, and user-friendly web applications .I specialize
-            in translating Figma designs into responsive, SEO-optimized
-            interfaces, with a strong focus on performance, usability, and clean
-            code. I thrive in both startup and enterprise environments,
-            collaborating closely with cross-functional teams to deliver
-            reliable and scalable digital solutions.
+            I am a Web Developer with experience in building fast, responsive,
+            and user-friendly applications using React, Next.js, and Angular.
+            Skilled in transforming Figma designs into production-ready code, I
+            focus on usability, accessibility, and performance optimization. I
+            have worked with REST APIs, headless CMS, and modern tools like
+            Tailwind CSS and Cypress, and gained exposure to Azure Cloud and
+            CI/CD practices. Curious and motivated to keep learning, I enjoy
+            working in collaborative, cross-functional teams to deliver digital
+            solutions that are both reliable and user-focused.
           </p>
           {/* Resume Button */}
           <a
